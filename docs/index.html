@@ -61,39 +61,78 @@
   <div class="feed" id="feed"><div class="empty">Loading today's articles…</div></div>
 
   <footer>
-    Tap a headline to read it — it opens the source in a new tab. Signal tracks how long you're away and how often you return to a topic, and re-ranks tomorrow's feed accordingly. Your calibration lives only in this browser.
+    Tap a headline to read it — it opens the source in a new tab. Signal tracks how long you're away and how often you return to a topic, and re-ranks tomorrow's feed accordingly. Your calibration syncs across every device pointed at the same profile.
   </footer>
 </div>
 
 <div class="toast" id="toast"></div>
 
 <script>
-const STORAGE_KEY = "signal-weights-v1";
-const READ_KEY = "signal-read-v1";
+// ---- Cross-device profile storage -----------------------------------
+// PASTE YOUR OWN VALUES HERE (see README "Cross-device sync" section).
+const DB_URL = "PASTE_YOUR_FIREBASE_DATABASE_URL_HERE";   // e.g. https://signal-feed-xxxxx-default-rtdb.firebaseio.com
+const PROFILE_ID = "brs-92f1k7";                            // any private-ish string; keep it the same on every device
 
-function loadWeights(){
+const CACHE_WEIGHTS_KEY = "signal-weights-cache-v1";
+const CACHE_READ_KEY = "signal-read-cache-v1";
+
+function dbPath(name){
+  return `${DB_URL}/profiles/${PROFILE_ID}/${name}.json`;
+}
+
+async function loadWeights(){
   try{
-    const raw = localStorage.getItem(STORAGE_KEY);
-    if(raw) return JSON.parse(raw);
+    const res = await fetch(dbPath("weights"));
+    const data = await res.json();
+    if(data){
+      localStorage.setItem(CACHE_WEIGHTS_KEY, JSON.stringify(data));
+      return data;
+    }
+  }catch(e){ console.warn("Falling back to cached weights:", e); }
+  try{
+    const cached = localStorage.getItem(CACHE_WEIGHTS_KEY);
+    if(cached) return JSON.parse(cached);
   }catch(e){}
   return {};
 }
+
 function saveWeights(w){
-  try{ localStorage.setItem(STORAGE_KEY, JSON.stringify(w)); }catch(e){}
+  try{ localStorage.setItem(CACHE_WEIGHTS_KEY, JSON.stringify(w)); }catch(e){}
+  fetch(dbPath("weights"), {
+    method: "PUT",
+    headers: {"Content-Type": "application/json"},
+    body: JSON.stringify(w),
+  }).catch(e => console.warn("Weight sync failed, will retry next update:", e));
 }
-function loadRead(){
+
+async function loadRead(){
   try{
-    const raw = localStorage.getItem(READ_KEY);
-    if(raw) return new Set(JSON.parse(raw));
+    const res = await fetch(dbPath("read"));
+    const data = await res.json();
+    if(Array.isArray(data)){
+      localStorage.setItem(CACHE_READ_KEY, JSON.stringify(data));
+      return new Set(data);
+    }
+  }catch(e){ console.warn("Falling back to cached read list:", e); }
+  try{
+    const cached = localStorage.getItem(CACHE_READ_KEY);
+    if(cached) return new Set(JSON.parse(cached));
   }catch(e){}
   return new Set();
 }
+
 function saveRead(s){
-  try{ localStorage.setItem(READ_KEY, JSON.stringify([...s])); }catch(e){}
+  const arr = [...s];
+  try{ localStorage.setItem(CACHE_READ_KEY, JSON.stringify(arr)); }catch(e){}
+  fetch(dbPath("read"), {
+    method: "PUT",
+    headers: {"Content-Type": "application/json"},
+    body: JSON.stringify(arr),
+  }).catch(e => console.warn("Read-list sync failed, will retry next update:", e));
 }
 
-let weights = loadWeights();
-let readIds = loadRead();
+let weights = {};
+let readIds = new Set();
 let clickCounts = {};
 let articles = [];
 
@@ -185,19 +224,30 @@ function showToast(msg){
   showToast._h = setTimeout(()=>t.classList.remove('show'), 3200);
 }
 
-fetch('./articles.json?_=' + Date.now())
-  .then(r => r.json())
-  .then(data => {
-    articles = data.articles || [];
-    document.getElementById('updated').textContent =
-      'updated ' + new Date(data.generated_at).toLocaleString();
-    renderDials();
-    renderFeed();
-  })
-  .catch(() => {
+async function init(){
+  const [articlesResult, loadedWeights, loadedRead] = await Promise.all([
+    fetch('./articles.json?_=' + Date.now()).then(r => r.json()).catch(() => null),
+    loadWeights(),
+    loadRead(),
+  ]);
+
+  weights = loadedWeights;
+  readIds = loadedRead;
+
+  if(!articlesResult){
     document.getElementById('feed').innerHTML =
       `<div class="empty">Couldn't load articles.json. Make sure the daily workflow has run at least once.</div>`;
-  });
+    return;
+  }
+
+  articles = articlesResult.articles || [];
+  document.getElementById('updated').textContent =
+    'updated ' + new Date(articlesResult.generated_at).toLocaleString();
+  renderDials();
+  renderFeed();
+}
+
+init();
 </script>
 </body>
 </html>
