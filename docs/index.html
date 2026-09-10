@@ -33,6 +33,7 @@
   .meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-family:var(--mono);font-size:10.5px;color:var(--paper-dim);margin-bottom:6px;padding-right:44px;}
   .meta .topic{color:var(--teal);}
   .meta .dot{opacity:0.5;}
+  .meta .lock{font-size:9.5px;opacity:0.7;}
   .headline{font-family:var(--serif);font-size:17px;line-height:1.35;margin:0 0 4px 0;padding-right:44px;}
   .snippet{color:#c7c4ba;font-size:13.5px;line-height:1.5;margin:0;}
   .empty{padding:40px 16px;text-align:center;color:var(--paper-dim);font-size:13.5px;line-height:1.6;}
@@ -146,7 +147,9 @@ function weightFor(key){
 }
 
 function score(a){
-  return weightFor("topic:"+a.topic) * 0.65 + weightFor("source:"+a.source) * 0.35;
+  let s = weightFor("topic:"+a.topic) * 0.65 + weightFor("source:"+a.source) * 0.35;
+  if(a.paywalled) s -= 0.08;
+  return s;
 }
 
 function renderDials(){
@@ -182,7 +185,7 @@ function renderFeed(){
         <span class="vote-pct">${pct}</span>
         <span class="vote-btn down ${downActive}" onclick="vote(event,'${a.id}','${a.topic}','${a.source}','down')">${DOWN_ARROW}</span>
       </div>
-      <div class="meta"><span class="topic">${a.topic}</span><span class="dot">·</span><span>${a.source}</span></div>
+      <div class="meta"><span class="topic">${a.topic}</span><span class="dot">·</span><span>${a.source}</span>${a.paywalled ? '<span class="lock" title="Often paywalled">🔒</span>' : ''}</div>
       <p class="headline">${a.title}</p>
       <p class="snippet">${a.summary || ''}</p>
     </a>`;
