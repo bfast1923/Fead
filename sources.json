@@ -14,14 +14,14 @@
   {"name": "BBC Politics", "topic": "Politics", "url": "https://feeds.bbci.co.uk/news/politics/rss.xml"},
   {"name": "NPR Politics", "topic": "Politics", "url": "https://feeds.npr.org/1014/rss.xml"},
 
-  {"name": "The Atlantic", "topic": "Culture", "url": "https://www.theatlantic.com/feed/all/"},
-  {"name": "The New Yorker", "topic": "Culture", "url": "https://www.newyorker.com/feed/everything"},
+  {"name": "The Atlantic", "topic": "Culture", "url": "https://www.theatlantic.com/feed/all/", "paywalled": true},
+  {"name": "The New Yorker", "topic": "Culture", "url": "https://www.newyorker.com/feed/everything", "paywalled": true},
 
   {"name": "Inside Climate News", "topic": "Climate", "url": "https://insideclimatenews.org/feed/"},
   {"name": "Yale Environment 360", "topic": "Climate", "url": "https://e360.yale.edu/feed.xml"},
 
   {"name": "NPR Health", "topic": "Health", "url": "https://feeds.npr.org/1128/rss.xml"},
-  {"name": "STAT News", "topic": "Health", "url": "https://www.statnews.com/feed/"},
+  {"name": "STAT News", "topic": "Health", "url": "https://www.statnews.com/feed/", "paywalled": true},
 
   {"name": "BBC World", "topic": "World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
   {"name": "NPR World", "topic": "World", "url": "https://feeds.npr.org/1004/rss.xml"}
