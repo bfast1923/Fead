@@ -76,6 +76,7 @@ def fetch_source(source):
                 "source": source["name"],
                 "topic": source["topic"],
                 "published": published.isoformat(),
+                "paywalled": source.get("paywalled", False),
             }
         )
         if len(articles) >= MAX_PER_SOURCE:
