@@ -1,0 +1,28 @@
+[
+  {"name": "Ars Technica", "topic": "Technology", "url": "https://feeds.arstechnica.com/arstechnica/index"},
+  {"name": "MIT Technology Review", "topic": "Technology", "url": "https://www.technologyreview.com/feed/"},
+  {"name": "The Verge", "topic": "Technology", "url": "https://www.theverge.com/rss/index.xml"},
+
+  {"name": "CNBC Business", "topic": "Business", "url": "https://www.cnbc.com/id/10001147/device/rss/rss.html"},
+  {"name": "BBC Business", "topic": "Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml"},
+  {"name": "NPR Business", "topic": "Business", "url": "https://feeds.npr.org/1006/rss.xml"},
+
+  {"name": "Nature News", "topic": "Science", "url": "https://www.nature.com/nature.rss"},
+  {"name": "ScienceDaily", "topic": "Science", "url": "https://www.sciencedaily.com/rss/all.xml"},
+  {"name": "Scientific American", "topic": "Science", "url": "https://www.scientificamerican.com/platform/syndication/rss/"},
+
+  {"name": "BBC Politics", "topic": "Politics", "url": "https://feeds.bbci.co.uk/news/politics/rss.xml"},
+  {"name": "NPR Politics", "topic": "Politics", "url": "https://feeds.npr.org/1014/rss.xml"},
+
+  {"name": "The Atlantic", "topic": "Culture", "url": "https://www.theatlantic.com/feed/all/"},
+  {"name": "The New Yorker", "topic": "Culture", "url": "https://www.newyorker.com/feed/everything"},
+
+  {"name": "Inside Climate News", "topic": "Climate", "url": "https://insideclimatenews.org/feed/"},
+  {"name": "Yale Environment 360", "topic": "Climate", "url": "https://e360.yale.edu/feed.xml"},
+
+  {"name": "NPR Health", "topic": "Health", "url": "https://feeds.npr.org/1128/rss.xml"},
+  {"name": "STAT News", "topic": "Health", "url": "https://www.statnews.com/feed/"},
+
+  {"name": "BBC World", "topic": "World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+  {"name": "NPR World", "topic": "World", "url": "https://feeds.npr.org/1004/rss.xml"}
+]
