@@ -1,75 +1,915 @@
 {
-  "generated_at": "2026-09-17T12:09:48.324374+00:00",
-  "count": 109,
+  "generated_at": "2026-09-18T12:09:13.469114+00:00",
+  "count": 110,
   "articles": [
     {
-      "id": "ad5a5678babb",
-      "title": "Ninth woman's body found as South African police investigate string of deaths",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-      "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+      "id": "ead578216ff6",
+      "title": "Police begin operation to move migrants from Ceuta beaches",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
       "source": "BBC World",
       "topic": "World",
-      "published": "2026-09-17T12:07:23+00:00",
+      "published": "2026-09-18T11:59:42+00:00",
       "paywalled": false
     },
     {
-      "id": "2899b37e901b",
-      "title": "Swedish PM Kristersson resigns after election loss",
-      "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
-      "summary": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
+      "id": "43332dda9720",
+      "title": "Dozens of suspected illegal miners die in Nigerian custody",
+      "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
       "source": "BBC World",
       "topic": "World",
-      "published": "2026-09-17T12:04:27+00:00",
+      "published": "2026-09-18T11:56:16+00:00",
       "paywalled": false
     },
     {
-      "id": "56c5c03d6e87",
-      "title": "The Apple Watch Series 12 is the start of a new wearable era",
-      "link": "https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch",
-      "summary": "You wouldn't know that the Apple Watch Series 12 is a big deal just by looking at it. It has the same design, buttons, sizes, and sensor types as generations of Apple Watches before it. But under the hood, the Series 12 builds in major changes that lay the groundwork for big idea",
-      "source": "The Verge",
-      "topic": "Technology",
-      "published": "2026-09-17T12:00:00+00:00",
+      "id": "ef57ed7345fa",
+      "title": "Lindsay Clancy holdout juror had no doubt she deliberately killed her children",
+      "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
+      "source": "BBC World",
+      "topic": "World",
+      "published": "2026-09-18T11:49:46+00:00",
       "paywalled": false
     },
     {
-      "id": "f0d8e2a8dfe7",
-      "title": "College Is Coming Apart",
-      "link": "https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/?utm_source=feed",
-      "summary": "Successive, overlapping crises reveal that American higher education makes no sense.",
-      "source": "The Atlantic",
-      "topic": "Culture",
-      "published": "2026-09-17T12:00:00+00:00",
-      "paywalled": true
-    },
-    {
-      "id": "eded551be3b5",
-      "title": "The 2026 National Book Awards Longlist",
-      "link": "https://www.newyorker.com/books/page-turner/the-2026-national-book-awards-longlist",
-      "summary": "The New Yorker presents the longlists for Young People\u2019s Literature, Translated Literature, Poetry, and Nonfiction.",
-      "source": "The New Yorker",
-      "topic": "Culture",
-      "published": "2026-09-17T12:00:00+00:00",
-      "paywalled": true
-    },
-    {
-      "id": "47796dc5d76c",
-      "title": "STAT+: Pharmalittle: We\u2019re reading about FDA hiring delays, a new Bavarian Nordic CEO, and more",
-      "link": "https://www.statnews.com/pharmalot/2026/09/17/fda-hiring-delays-bavarian-nordic-appoints-ceo/?utm_campaign=rss",
-      "summary": "For all the talk of a hiring spree at the FDA after DOGE cuts last year, the reality is more complicated and filled with bureaucratic delays",
-      "source": "STAT News",
-      "topic": "Health",
-      "published": "2026-09-17T11:59:57+00:00",
-      "paywalled": true
-    },
-    {
-      "id": "c15a22345c6e",
-      "title": "Interest rates held but Bank signals rise if energy prices stay high",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.",
+      "id": "4121116ce18a",
+      "title": "Brewdog's unpaid workers to receive nothing after takeover deal",
+      "link": "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Administrators say about \u00a3489,000 was owed for staff wages and holiday pay and \u00a32.4m was owed to HMRC for unpaid VAT.",
       "source": "BBC Business",
       "topic": "Business",
-      "published": "2026-09-17T11:50:24+00:00",
+      "published": "2026-09-18T11:49:07+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "4a7b35fbcf1b",
+      "title": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
+      "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "summary": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
+      "source": "BBC World",
+      "topic": "World",
+      "published": "2026-09-18T11:39:11+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "193c8bfab556",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone\u2019s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our seni",
+      "source": "MIT Technology Review",
+      "topic": "Technology",
+      "published": "2026-09-18T11:29:22+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "4c07bcab4c0f",
+      "title": "Ex-Labour deputy leader Tom Watson joins Palantir",
+      "link": "https://www.bbc.co.uk/news/articles/cj62ed1d2p3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lord Watson praises his new employers but says there are \"legitimate questions\" about big tech firms that \"require answers\".",
+      "source": "BBC Politics",
+      "topic": "Politics",
+      "published": "2026-09-18T11:23:18+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "5f25b6ab29fc",
+      "title": "Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation",
+      "link": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
+      "summary": "A federal judge ruled yesterday that President Trump cannot tear down the Kennedy Center without a 30-day notice. And, recent lawsuits seek to keep armed federal officers away from polling sites.",
+      "source": "NPR World",
+      "topic": "World",
+      "published": "2026-09-18T11:09:24+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "09d56a089979",
+      "title": "Three dead and eight injured in Philippines school shooting",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
+      "source": "BBC World",
+      "topic": "World",
+      "published": "2026-09-18T11:01:46+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "8553e2106797",
+      "title": "Beauty, health and wellness are converging into one retail category",
+      "link": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html",
+      "summary": "As consumers prioritize holistic retail purchases, beauty, health and wellness are increasingly converging into one category and one consumer budget.",
+      "source": "CNBC Business",
+      "topic": "Business",
+      "published": "2026-09-18T11:00:01+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "82da9e642a08",
+      "title": "Flash floods can strike without warning \u2014 this new technology could change that",
+      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is ove",
+      "source": "The Verge",
+      "topic": "Technology",
+      "published": "2026-09-18T11:00:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "f78823bab269",
+      "title": "Ms. Rachel has entered her album era, and she is so happy about it",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
+      "summary": "Ms. Rachel has conquered YouTube, Netflix and the toy aisle. Now she's making an album, with real instruments, big feelings and her littlest listeners in mind.",
+      "source": "NPR Business",
+      "topic": "Business",
+      "published": "2026-09-18T11:00:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "10066aaed2e4",
+      "title": "This dolphin terrifies fish until they puke\u2014and then it eats their upchuck",
+      "link": "https://www.scientificamerican.com/article/this-dolphin-terrifies-fish-until-they-puke-and-then-it-eats-their-upchuck/",
+      "summary": "Don&rsquo;t have the energy to catch your own meal? This dolphin has a gross solution",
+      "source": "Scientific American",
+      "topic": "Science",
+      "published": "2026-09-18T11:00:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "c41e4ce51349",
+      "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
+      "summary": "Warren Buffett is stepping down as chairman of Berkshire Hathaway after serving in the role for more than 50 years. His son, Howard, will become Berkshire Hathaway's new chairman",
+      "source": "NPR Business",
+      "topic": "Business",
+      "published": "2026-09-18T10:58:49+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "d898b9b2f20e",
+      "title": "We have a duty to 'progress' Good Friday Agreement, taoiseach tells PM",
+      "link": "https://www.bbc.co.uk/news/articles/cked7zjq57n5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pair were expected to discuss a further strengthening of ties including boosting trade, security and working with the European Union.",
+      "source": "BBC Politics",
+      "topic": "Politics",
+      "published": "2026-09-18T10:50:35+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "947b1ac9abf6",
+      "title": "How much longer will the sun shine?",
+      "link": "https://www.scientificamerican.com/article/how-much-longer-will-the-sun-shine/",
+      "summary": "Our sun is on a long, strange trip to its eventual demise. Here are the key stops along the way",
+      "source": "Scientific American",
+      "topic": "Science",
+      "published": "2026-09-18T10:45:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "258ab780cb51",
+      "title": "White House withdraws nomination of Lance Schroyer to lead ICE",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5973272/white-house-withdraws-nomination-of-lance-schroyer-to-lead-ice",
+      "summary": "President Trump's nominee to lead U.S. Immigration and Customs Enforcement was former Oklahoma state trooper Lance Schroyer. Three months after tapping him for the job, his name is being withdrawn.",
+      "source": "NPR Politics",
+      "topic": "Politics",
+      "published": "2026-09-18T10:44:40+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "a5cec0e2e1ce",
+      "title": "We bought our \u00a3242,000 home without a deposit - here's how",
+      "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
+      "summary": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
+      "source": "BBC Business",
+      "topic": "Business",
+      "published": "2026-09-18T10:43:03+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "4770b5791c06",
+      "title": "South Africa 'feels like a prison' for women amid spate of femicides",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
+      "summary": "South Africa has some of the highest rates of violence against women in the world, and a spate of killings of nine women in the same area in recent weeks has led to renewed outrage.",
+      "source": "NPR World",
+      "topic": "World",
+      "published": "2026-09-18T10:39:14+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "8156558172c2",
+      "title": "Badenoch says she is instructing lawyers to challenge government after Tory-run council's 94% tax hike",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gq87ed6n3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A row is growing over Wandsworth Council's rise, which the local authority is blaming on government funding cuts.",
+      "source": "BBC Politics",
+      "topic": "Politics",
+      "published": "2026-09-18T10:37:06+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "863e7b7f90b6",
+      "title": "How heat makes it harder for students to learn",
+      "link": "https://www.scientificamerican.com/article/how-heat-makes-it-harder-for-students-to-learn/",
+      "summary": "As temperatures rise, the evidence is clear that heat is eroding students&rsquo; ability to learn",
+      "source": "Scientific American",
+      "topic": "Science",
+      "published": "2026-09-18T10:30:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "1d8cfb619198",
+      "title": "Why Bangladesh\u2019s measles outbreak is a cautionary tale for the U.S.",
+      "link": "https://www.scientificamerican.com/article/why-bangladeshs-measles-outbreak-is-a-cautionary-tale-for-the-u-s/",
+      "summary": "As Bangladesh faces a deadly measles outbreak, experts assess what it would take for the U.S. to reach similar levels",
+      "source": "Scientific American",
+      "topic": "Science",
+      "published": "2026-09-18T10:00:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "823f4e9c8e6b",
+      "title": "New York Film Festival\u2019s World of Cinema",
+      "link": "https://www.newyorker.com/culture/goings-on/new-york-film-festivals-world-of-cinema",
+      "summary": "Also: the punk-rock ruckus of Bikini Kill, New York City Ballet\u2019s fall season, the Australian solo comedy \u201cGarry Starr: Classic Penguins,\u201d and more.",
+      "source": "The New Yorker",
+      "topic": "Culture",
+      "published": "2026-09-18T10:00:00+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "4bdc178ac80c",
+      "title": "Why China Isn\u2019t Getting Existential About A.I.",
+      "link": "https://www.newyorker.com/news/q-and-a/why-china-isnt-getting-existential-about-ai",
+      "summary": "China\u2019s fears about the technology are increasingly distinct from those of the U.S. What does that mean for international co\u00f6peration?",
+      "source": "The New Yorker",
+      "topic": "Culture",
+      "published": "2026-09-18T10:00:00+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "c95b324a505f",
+      "title": "The Sheep That Stop Wildfires",
+      "link": "https://www.newyorker.com/news/annals-of-a-warming-planet/the-sheep-that-stop-wildfires",
+      "summary": "Herds of livestock are munching through overgrown, hard-to-reach vegetation that could otherwise become fuel for firestorms.",
+      "source": "The New Yorker",
+      "topic": "Culture",
+      "published": "2026-09-18T10:00:00+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "7e973905f3e0",
+      "title": "A Never Trumper and a Democrat on Beating MAGA for Good",
+      "link": "https://www.newyorker.com/books/under-review/a-never-trumper-and-a-democrat-on-beating-maga-for-good",
+      "summary": "Sarah Longwell\u2019s \u201cHow to Eat an Elephant\u201d and Adam Jentleson\u2019s \u201cSupermajority\u201d grapple with how to defeat Trumpism.",
+      "source": "The New Yorker",
+      "topic": "Culture",
+      "published": "2026-09-18T10:00:00+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "c48c14821cef",
+      "title": "These blood thinners may have an unexpected benefit for Alzheimer\u2019s patients",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260917003732.htm",
+      "summary": "Newer blood thinners may do more than prevent strokes in people with Alzheimer\u2019s disease and atrial fibrillation. Researchers found that patients taking NOACs experienced a slower decline in cognitive function than those using warfarin or no blood thinners. The effect was modest ",
+      "source": "ScienceDaily",
+      "topic": "Science",
+      "published": "2026-09-18T09:48:31+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "c4bdb2756a4d",
+      "title": "Microplastics in Soil a \u2018Trojan Horse\u2019 for Toxins",
+      "link": "https://e360.yale.edu/digest/microplastics-soil",
+      "summary": "Microplastics act like a \u201cTrojan horse,\u201d delivering pollutants, pesticides, and bacteria through the soil, a five-year multinational research project has found.Read more on E360 \u2192",
+      "source": "Yale Environment 360",
+      "topic": "Climate",
+      "published": "2026-09-18T09:32:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "453c7f72cf23",
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: \u201cI ",
+      "source": "MIT Technology Review",
+      "topic": "Technology",
+      "published": "2026-09-18T09:00:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "62d9e9977735",
+      "title": "Could trees developed with gene-editing technology protect Florida's citrus industry?",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry",
+      "summary": "A bacterial infection is wiping out Florida's citrus trees. Growers hope a rootstock developed with gene-editing technology could keep the disease at bay.",
+      "source": "NPR Business",
+      "topic": "Business",
+      "published": "2026-09-18T09:00:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "7e48a0c302f2",
+      "title": "Google is helping write AI chatbot safety laws \u2014 while pushing for loopholes",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
+      "summary": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.",
+      "source": "NPR Politics",
+      "topic": "Politics",
+      "published": "2026-09-18T09:00:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "e3f5007881c6",
+      "title": "Republican 'cavalry' arrives with a Trump-backed $150 million ad blitz in key races",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5971202/trump-super-pac-midterm-spending-republicans-democrats",
+      "summary": "To counter a difficult political environment, two Trump-aligned super PACs have reserved more than $150 million in ads \u2014 primarily in deep red House and Senate races that have now become competitive.",
+      "source": "NPR Politics",
+      "topic": "Politics",
+      "published": "2026-09-18T09:00:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "158c8ec949f5",
+      "title": "A DHS email raises new questions about the Trump administration's election plans",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5973278/dhs-noncitizen-voting-english-language",
+      "summary": "A heavily redacted email from last year, reported first by NPR, reveals that DHS personnel shared a list of jurisdictions that offer election materials in non-English languages. It's unclear why.",
+      "source": "NPR Politics",
+      "topic": "Politics",
+      "published": "2026-09-18T09:00:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "56810a166fe2",
+      "title": "Jon Ossoff Is Doing Something Different",
+      "link": "https://www.theatlantic.com/politics/2026/09/jon-ossoff-midterms-senate-georgia/688663/?utm_source=feed",
+      "summary": "What does that mean for 2028?",
+      "source": "The Atlantic",
+      "topic": "Culture",
+      "published": "2026-09-18T09:00:00+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "7971e8629436",
+      "title": "California Adopts New Limits to Rein in Dairy Manure Pollution and Its \u2018Outsized\u2019 Groundwater Impacts",
+      "link": "https://insideclimatenews.org/news/18092026/california-dairy-manure-groundwater-regulation/",
+      "summary": "The California valley with the most dairy farms in the state will follow stricter water pollution requirements following years of advocacy and a marathon six-hour meeting this week. The State Water Resources Control Board unanimously agreed to adopt the regulations under what sev",
+      "source": "Inside Climate News",
+      "topic": "Climate",
+      "published": "2026-09-18T08:55:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "84beebe414fb",
+      "title": "Some GOP candidates are still making election fraud claims. Voters want to move on",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5895113/some-gop-candidates-are-still-making-election-fraud-claims-voters-want-to-move-on",
+      "summary": "President Trump and some Republican battleground candidates are still embracing false claims about widespread election fraud in 2020, even as many GOP voters want them to move on.",
+      "source": "NPR Politics",
+      "topic": "Politics",
+      "published": "2026-09-18T08:45:52+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "7221c0f9c670",
+      "title": "Republican candidate in Florida runs ads criticizing Trump's immigration enforcement",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5973221/republican-candidate-in-florida-runs-ads-criticizing-trumps-immigration-enforcement",
+      "summary": "In a rare move, a House Republican running in a competitive race in South Florida is publicly breaking with President Trump. Maria Elvira Salazar represents a majority Hispanic district.",
+      "source": "NPR Politics",
+      "topic": "Politics",
+      "published": "2026-09-18T08:45:44+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "481924e17261",
+      "title": "Doctors raise concerns about views and experience of members on federal task force",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5973135/doctors-raise-concerns-about-views-and-experience-of-members-on-federal-task-force",
+      "summary": "Health Secretary Robert F. Kennedy Jr. names new members to powerful federal task force that plays a key role in determining the kind of preventive case people get. In a major departure, the new members of the U.S. Preventive Services Task Force include specialists instead of exp",
+      "source": "NPR Health",
+      "topic": "Health",
+      "published": "2026-09-18T08:44:41+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "c4199e0c2a5a",
+      "title": "Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5973265/poland-nato-russia",
+      "summary": "Polish Prime Minister Donald Tusk said that these potential strikes \"intend to paralyze NATO\" in an attempt to demonstrate that Article 5 \"exists only in theory.\"",
+      "source": "NPR World",
+      "topic": "World",
+      "published": "2026-09-18T08:44:08+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "eeaa1437d430",
+      "title": "Opinion: Doctors should educate patients about \u2018Asian glow\u2019 and drinking risks",
+      "link": "https://www.statnews.com/2026/09/18/what-is-asian-glow-alcohol-flushing-aldh2-drinking-health-consequences/?utm_campaign=rss",
+      "summary": "It wasn\u2019t until he started medical school, Brian Zhang writes, that he realized \u2018Asian glow\u2019 from drinking was a sign of something important.",
+      "source": "STAT News",
+      "topic": "Health",
+      "published": "2026-09-18T08:30:00+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "f537fe939f92",
+      "title": "Opinion: More young men are coming to me for plastic surgery. The way I think about them has changed",
+      "link": "https://www.statnews.com/2026/09/18/young-men-plastic-surgery-rates-influencers-lookmaxxing-clavicular/?utm_campaign=rss",
+      "summary": "\u201cThe young men in my clinic are responding rationally to a system that was designed for profit,\u201d writes plastic surgeon Kavitha Ranganathan.",
+      "source": "STAT News",
+      "topic": "Health",
+      "published": "2026-09-18T08:30:00+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "022bb0e601f0",
+      "title": "In Sudan, attacks on hospitals force patients to make dangerous journeys",
+      "link": "https://www.statnews.com/2026/09/18/sudan-civil-war-cancer-treatment-wartime-tom-catena-mother-mercy-hospital/?utm_campaign=rss",
+      "summary": "Amid a civil war in Sudan, it\u2019s now difficult for people with cancer and other long-term illnesses to receive treatment that was once readily available",
+      "source": "STAT News",
+      "topic": "Health",
+      "published": "2026-09-18T08:30:00+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "134b5503edeb",
+      "title": "STAT+: A geriatrician explains why AI for older adults deserves careful scrutiny",
+      "link": "https://www.statnews.com/2026/09/18/geriatrician-explains-why-ai-for-older-adults-deserves-careful-scrutiny/?utm_campaign=rss",
+      "summary": "James Deardorff, a geriatrician at UCSF, talks about the benefits and pitfalls of using AI to make care decisions for older adults.",
+      "source": "STAT News",
+      "topic": "Health",
+      "published": "2026-09-18T08:30:00+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "295bc154a725",
+      "title": "UK Youth Parliament looks set to be axed",
+      "link": "https://www.bbc.co.uk/news/articles/c689jke4w310o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some say scrapping the parliament for 11 to 18-year-olds would be a blow for democracy, while others say it is overdue.",
+      "source": "BBC Politics",
+      "topic": "Politics",
+      "published": "2026-09-18T08:20:19+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "377d1966a417",
+      "title": "What to know after a week of Houthi attacks that threaten Saudi oil",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5973810/houthi-attacks-saudi-oil-world-markets",
+      "summary": "The Houthis' biggest land grab in years reignited Yemen's 12-year civil war and pushed up global fuel prices, extending their reach to a key maritime chokepoint and threatening Saudi Arabia's oil exports.",
+      "source": "NPR World",
+      "topic": "World",
+      "published": "2026-09-18T08:02:41+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "ce752dd82974",
+      "title": "Healey to ask EU finance ministers to let UK into Made in Europe scheme",
+      "link": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
+      "summary": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
+      "source": "BBC Business",
+      "topic": "Business",
+      "published": "2026-09-18T06:52:47+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "0792e25b29fa",
+      "title": "Thames Water rescue deal should be rejected - MPs",
+      "link": "https://www.bbc.co.uk/news/articles/c6qjk9q1wpqeo?at_medium=RSS&at_campaign=rss",
+      "summary": "A report on the future of Thames Water, urging the government to take action, has been published.",
+      "source": "BBC Business",
+      "topic": "Business",
+      "published": "2026-09-18T05:16:57+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "311c9b49802b",
+      "title": "'Don't be silly' over Falklands and Irish unity, top Tory tells Trump",
+      "link": "https://www.bbc.co.uk/news/articles/cqrm98knlzrko?at_medium=RSS&at_campaign=rss",
+      "summary": "Shadow foreign secretary Tom Tugendhat says the US president's recent comments were aimed at US voters, in a BBC interview.",
+      "source": "BBC Politics",
+      "topic": "Politics",
+      "published": "2026-09-18T04:58:41+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "6d046d44e31c",
+      "title": "Scientists restore a brain protein and reverse signs of aging in mice",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
+      "summary": "Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation, cognitive decline, weaker bones, and thinner skin. Restoring Menin reversed several age-related changes, while the amino acid D-serine improve",
+      "source": "ScienceDaily",
+      "topic": "Science",
+      "published": "2026-09-18T04:25:45+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "167f84824c7e",
+      "title": "Indonesia is moving its capital. Will a forest pay the price?",
+      "link": "https://www.scientificamerican.com/podcast/episode/indonesia-is-moving-its-capital-will-a-forest-pay-the-price/",
+      "summary": "Filmmaker and journalist Leah Varjacques takes listeners inside an Indonesian forest that&rsquo;s quickly changing as the country attempts to move its capital city",
+      "source": "Scientific American",
+      "topic": "Science",
+      "published": "2026-09-18T04:00:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "b563daa68ff9",
+      "title": "Ozempic can change your body. Can it change your life?",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260917003728.htm",
+      "summary": "Ozempic and other GLP-1 medications can improve blood sugar, weight, and cardiovascular health, but researchers found little evidence that they also improve mental health, employment, marriage, or overall well-being. The findings suggest the drugs\u2019 broader life effects may be sub",
+      "source": "ScienceDaily",
+      "topic": "Science",
+      "published": "2026-09-18T03:52:09+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "1c01993b54d3",
+      "title": "Waymo says Singapore will be its next international robotaxi city",
+      "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+      "summary": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous t",
+      "source": "The Verge",
+      "topic": "Technology",
+      "published": "2026-09-18T02:00:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "ab8ddc692bc0",
+      "title": "Not just 'Nice Guy Eddie': Lib Dems eager for leader to show radical side at party conference",
+      "link": "https://www.bbc.co.uk/news/articles/cq4grjdz8xv5o?at_medium=RSS&at_campaign=rss",
+      "summary": "There is a sizeable group of Lib Dem MPs who openly question whether the party's problem is with its leader, while others support his stance.",
+      "source": "BBC Politics",
+      "topic": "Politics",
+      "published": "2026-09-18T00:18:23+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "c40bf5c72d3f",
+      "title": "Cognitive resilience helps to predict Alzheimer\u2019s dementia",
+      "link": "https://www.nature.com/articles/d41586-026-02897-4",
+      "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4The trait could explain why symptoms vary in severity between people with similar brain pathology.",
+      "source": "Nature News",
+      "topic": "Science",
+      "published": "2026-09-18T00:00:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "f59d17a26e9c",
+      "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment",
+      "link": "https://www.nature.com/articles/d41586-026-02945-z",
+      "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02945-zGene-targeting treatments could be used to treat other people with rare forms of amyotrophic lateral sclerosis (ALS).",
+      "source": "Nature News",
+      "topic": "Science",
+      "published": "2026-09-18T00:00:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "47d433ea7b23",
+      "title": "Chinese companies doubled down on science after US tech restrictions",
+      "link": "https://www.nature.com/articles/d41586-026-02946-y",
+      "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02946-yAffected Chinese companies adjusted their sources of knowledge to stay competitive.",
+      "source": "Nature News",
+      "topic": "Science",
+      "published": "2026-09-18T00:00:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "0d290f0223c9",
+      "title": "RFK Jr.\u2019s Bold Reassurance to Anti-Vaxxers",
+      "link": "https://www.theatlantic.com/health/2026/09/rfk-jr-childrens-health-defense-conference-speech/688685/?utm_source=feed",
+      "summary": "\u201cYou have friends in the White House,\u201d he said at a conference hosted by the anti-vaccine organization he founded.",
+      "source": "The Atlantic",
+      "topic": "Culture",
+      "published": "2026-09-17T23:33:23+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "af44b5d89e6d",
+      "title": "New wild cat species discovered - with only one known living member",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
+      "summary": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
+      "source": "BBC World",
+      "topic": "World",
+      "published": "2026-09-17T23:15:55+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "bc343d6142ae",
+      "title": "Early Bowie music available to stream for first time",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Previously unheard material from the start of the artist's career has been released for the first time.",
+      "source": "BBC Business",
+      "topic": "Business",
+      "published": "2026-09-17T23:01:03+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "e52342f13ab4",
+      "title": "The virtual worlds where robots are trained",
+      "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+      "source": "BBC Business",
+      "topic": "Business",
+      "published": "2026-09-17T23:00:47+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "da398c1010af",
+      "title": "Buttigieg: Democrats Need to Get Serious About Amending the Constitution",
+      "link": "https://www.theatlantic.com/politics/2026/09/pete-buttigieg-democrats-trump-midterms/688666/?utm_source=feed",
+      "summary": "The former transportation secretary spoke with The Atlantic\u2019s editor in chief about what comes next for Democrats should they win big in November.",
+      "source": "The Atlantic",
+      "topic": "Culture",
+      "published": "2026-09-17T22:36:33+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "f5dbcedb0e59",
+      "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+      "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+      "summary": "The USPSTF sets insurance coverage from preventive services, like colonoscopies.",
+      "source": "Ars Technica",
+      "topic": "Technology",
+      "published": "2026-09-17T22:31:28+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "e5b04b0d501d",
+      "title": "Why Democrats Might Choose to Impeach Cabinet Members",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/who-would-a-democratic-house-impeach/688679/?utm_source=feed",
+      "summary": "The power to impeach secretaries and other executive-branch officers is not well known, but it\u2019s an effective accountability measure.",
+      "source": "The Atlantic",
+      "topic": "Culture",
+      "published": "2026-09-17T22:14:00+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "289b2cb14f50",
+      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+      "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
+      "source": "Ars Technica",
+      "topic": "Technology",
+      "published": "2026-09-17T22:12:58+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "bfc5ca827b09",
+      "title": "Kennedy announces new effort to speed up autism diagnoses",
+      "link": "https://www.statnews.com/2026/09/17/kennedy-announces-new-research-fund-to-improve-autism-diagnoses/?utm_campaign=rss",
+      "summary": "Health secretary Kennedy announced a new effort to improve autism diagnoses, arguing that the current model is outdated",
+      "source": "STAT News",
+      "topic": "Health",
+      "published": "2026-09-17T22:09:30+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "5b8622884637",
+      "title": "Pay No Attention to the Russian Oligarch at My Wedding Weekend",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/russian-oligarch-wedding-donald-trump-jr/688678/?utm_source=feed",
+      "summary": "He\u2019s just a dear friend we know nothing about!",
+      "source": "The Atlantic",
+      "topic": "Culture",
+      "published": "2026-09-17T21:11:00+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "2afec9a326b3",
+      "title": "Kennedy renews attacks on vaccines at Children\u2019s Health Defense conference",
+      "link": "https://www.statnews.com/2026/09/17/rfk-jr-anti-vaccination-activism-childrens-health-defense-conference/?utm_campaign=rss",
+      "summary": "Health secretary RFK Jr. returned to his roots in a keynote address at a conference hosted by the Children\u2019s Health Defense, an anti-vaccine nonprofit he helped start.",
+      "source": "STAT News",
+      "topic": "Health",
+      "published": "2026-09-17T20:40:04+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "beb9711acac3",
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
+      "source": "Ars Technica",
+      "topic": "Technology",
+      "published": "2026-09-17T20:24:34+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "3b67387149cf",
+      "title": "Behind the overture from the European Union to Canada",
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5973029/behind-the-overture-from-the-european-union-to-canada",
+      "summary": "NPR's Mary Louise Kelly speaks with Ian Bremmer, president and founder of the Eurasia Group, about the latest developments between Canada, the European Union and the U.S.",
+      "source": "NPR World",
+      "topic": "World",
+      "published": "2026-09-17T20:24:33+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "01982aadb2ec",
+      "title": "Microsoft exec called AI scraping the \u201clargest theft of labor in human history\u201d",
+      "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+      "summary": "Microsoft, OpenAI emails reveal fear of AI \u201cdoom loop\u201d killing news orgs.",
+      "source": "Ars Technica",
+      "topic": "Technology",
+      "published": "2026-09-17T20:10:41+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "e0dc29e58091",
+      "title": "A bad year for the crypto industry just got a lot worse",
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5971298/a-bad-year-for-the-crypto-industry-just-got-a-lot-worse",
+      "summary": "The cryptocurrency industry just suffered a major defeat in a bill they had badly wanted to get through the Senate. It's the latest setback in a terrible year for the sector.",
+      "source": "NPR Business",
+      "topic": "Business",
+      "published": "2026-09-17T20:03:18+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "95b068445802",
+      "title": "To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot",
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
+      "summary": "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don't have a search engine at their fingertips, a chatbot is offering a lifeline.",
+      "source": "NPR Health",
+      "topic": "Health",
+      "published": "2026-09-17T19:33:30+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "539c5a96bbf4",
+      "title": "The AI Superintelligence Slowdown",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "summary": "Remember when tech leaders would tell their employees to \u201cmove fast and break things\u201d? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are pub",
+      "source": "The Verge",
+      "topic": "Technology",
+      "published": "2026-09-17T19:28:24+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "efa840d23270",
+      "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
+      "link": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
+      "summary": "Bill would help rightsholders obtain court orders to block foreign piracy sites.",
+      "source": "Ars Technica",
+      "topic": "Technology",
+      "published": "2026-09-17T19:07:28+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "7dca747d593d",
+      "title": "See the first new species of cat discovered in more than a century\u2014it\u2019s adorable",
+      "link": "https://www.scientificamerican.com/article/see-the-first-new-species-of-cat-discovered-in-more-than-a-century-its-adorable/",
+      "summary": "The cat is smaller than a house cat but has the spots of a leopard",
+      "source": "Scientific American",
+      "topic": "Science",
+      "published": "2026-09-17T19:00:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "030005702ad7",
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different",
+      "source": "The Verge",
+      "topic": "Technology",
+      "published": "2026-09-17T18:58:05+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "1573d80e630d",
+      "title": "What We Lost When Big Tech Took Over the Classroom",
+      "link": "https://www.newyorker.com/culture/progress-report/what-we-lost-when-big-tech-took-over-the-classroom",
+      "summary": "Natasha Singer\u2019s book \u201cCoding Kids\u201d tracks how public schools were bewitched by private corporations, setting the stage for the ed-tech backlash of today.",
+      "source": "The New Yorker",
+      "topic": "Culture",
+      "published": "2026-09-17T18:45:52+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "168e3a7edc73",
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "source": "Ars Technica",
+      "topic": "Technology",
+      "published": "2026-09-17T18:33:13+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "5a25c1bea92f",
+      "title": "Is Beef the Next Internal-Combustion Engine?",
+      "link": "https://www.newyorker.com/news/the-lede/is-beef-the-next-internal-combustion-engine",
+      "summary": "Robert F. Kennedy, Jr., eats it every day, but more Americans, faced with rising prices and another climate warning, might want something else for dinner.",
+      "source": "The New Yorker",
+      "topic": "Culture",
+      "published": "2026-09-17T18:31:00+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "5ffc836cf4a7",
+      "title": "Stephen Curry says his Li-Ning signature shoe will debut early next year",
+      "link": "https://www.cnbc.com/2026/09/17/stephen-curry-li-ning-signature-shoe.html",
+      "summary": "Golden State Warrior superstar Stephen Curry announced in June he was signing a long-term partnership with Chinese brand Li-Ning.",
+      "source": "CNBC Business",
+      "topic": "Business",
+      "published": "2026-09-17T17:27:15+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "4c92fd4f1e1b",
+      "title": "\u2018The Best Thing That Happened to Him Was Losing in 2020\u2019",
+      "link": "https://www.theatlantic.com/books/2026/09/maggie-haberman-jonathan-swan-atlantic-festival/688665/?utm_source=feed",
+      "summary": "Maggie Haberman and Jonathan Swan explain how the four years between Donald Trump\u2019s first and second terms changed the presidency.",
+      "source": "The Atlantic",
+      "topic": "Culture",
+      "published": "2026-09-17T17:25:00+00:00",
+      "paywalled": true
+    },
+    {
+      "id": "4471c4b0431c",
+      "title": "Save $30 or more on a refurbished Apple TV 4K",
+      "link": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
+      "summary": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lowe",
+      "source": "The Verge",
+      "topic": "Technology",
+      "published": "2026-09-17T17:14:07+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "57df56a421d3",
+      "title": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened?",
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5971066/trump-rx-medicaid-generous-drug-prices-pfizer-favored-nation",
+      "summary": "The Trump administration's efforts to lower drug prices included promised changes to Medicaid. But it's still unclear which drugs will be affected. And each state has to opt in.",
+      "source": "NPR Health",
+      "topic": "Health",
+      "published": "2026-09-17T16:45:58+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "70dd02fbb24e",
+      "title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
+      "link": "https://www.cnbc.com/2026/09/17/netflix-bela-bajaria-live-sports-event-strategy.html",
+      "summary": "Bajaria said Netflix would be open to a package of international NFL games if one becomes available when the league renegotiates its media rights agreements.",
+      "source": "CNBC Business",
+      "topic": "Business",
+      "published": "2026-09-17T16:00:17+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "a9cfad0a4ec1",
+      "title": "Xbox\u2019s clever disc-to-digital feature was 15 years in the making",
+      "link": "https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad",
+      "summary": "When Xbox announced a new feature last month that lets you digitize existing physical game collections, I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xbox, perfectly timed as a response to Sony killing PlayStation discs. But the realit",
+      "source": "The Verge",
+      "topic": "Technology",
+      "published": "2026-09-17T16:00:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "9c13791f1a85",
+      "title": "This popular fermented food may help flush nanoplastics from the body",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260917101058.htm",
+      "summary": "A kimchi-derived bacterium can bind to nanoplastics under gut-like conditions and may help carry them out of the body. In mice, the probiotic more than doubled the amount of nanoplastics detected in feces, pointing to a surprising potential use for microbes from fermented foods.",
+      "source": "ScienceDaily",
+      "topic": "Science",
+      "published": "2026-09-17T14:42:52+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "c03d1c05b042",
+      "title": "GM touts new V-8 engines in revived \u2018truck wars\u2019 with Ford, Ram amid lackluster EV sales",
+      "link": "https://www.cnbc.com/2026/09/17/chevy-silverado-gmc-sierra-v-8-engines.html",
+      "summary": "The large, gas-guzzling models continue to sell well in pickup trucks thanks to their ability to tow and haul heavy things.",
+      "source": "CNBC Business",
+      "topic": "Business",
+      "published": "2026-09-17T14:39:40+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "fe3ba95caf9f",
+      "title": "Scientists discover a mysterious new frog hiding in the Amazon",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260917003737.htm",
+      "summary": "Scientists discovered a new frog species in the flooded forests of the western Amazon, distinguishing it from nearly identical relatives through DNA and its unique call. Adenomera varcena highlights how much Amazonian biodiversity remains hidden even as habitat loss and climate c",
+      "source": "ScienceDaily",
+      "topic": "Science",
+      "published": "2026-09-17T14:08:44+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "6d2713820f9e",
+      "title": "A $100 detector can see invisible particles raining down from space",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260917003725.htm",
+      "summary": "A pocket-sized, roughly $100 detector can reveal the invisible stream of cosmic particles constantly passing through Earth and even through our bodies. What began as a student physics project is now being used in major experiments, balloon missions, and potentially future spacecr",
+      "source": "ScienceDaily",
+      "topic": "Science",
+      "published": "2026-09-17T13:54:19+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "98d82079b548",
+      "title": "These State Elections Could Reshape Climate and Energy Policy",
+      "link": "https://insideclimatenews.org/news/17092026/inside-clean-energy-key-state-elections/",
+      "summary": "Democrats are poised to achieve trifectas\u2014control of the governor\u2019s office and both legislative chambers\u2014in at least three states in this year\u2019s midterm elections, and maybe even more. This matters because states play an outsize role in climate and energy policy. And when Democra",
+      "source": "Inside Climate News",
+      "topic": "Climate",
+      "published": "2026-09-17T13:00:00+00:00",
+      "paywalled": false
+    },
+    {
+      "id": "ff37df75e2ac",
+      "title": "The Download: mice with part-human brains and climate tech innovators",
+      "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A ",
+      "source": "MIT Technology Review",
+      "topic": "Technology",
+      "published": "2026-09-17T12:10:00+00:00",
       "paywalled": false
     },
     {
@@ -83,106 +923,6 @@
       "paywalled": false
     },
     {
-      "id": "70dd02fbb24e",
-      "title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
-      "link": "https://www.cnbc.com/2026/09/17/netflix-bela-bajaria-live-sports-event-strategy.html",
-      "summary": "Bajaria said Netflix would be open to a package of international NFL games if one becomes available when the league renegotiates its media rights agreements.",
-      "source": "CNBC Business",
-      "topic": "Business",
-      "published": "2026-09-17T11:48:41+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "41b021268bbc",
-      "title": "Inside the suddenly explosive world of AI safety",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier. An",
-      "source": "The Verge",
-      "topic": "Technology",
-      "published": "2026-09-17T11:30:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "05dfac07ea2e",
-      "title": "Why the Bomb Is Bad for Democracy",
-      "link": "https://www.theatlantic.com/books/2026/09/nuclear-weapons-and-secrecy-frenchman-flat-by-jon-else-book-review/688659/?utm_source=feed",
-      "summary": "A famous documentarian\u2019s new book suggests that secrecy is a major impediment to sensible nuclear policy.",
-      "source": "The Atlantic",
-      "topic": "Culture",
-      "published": "2026-09-17T11:30:00+00:00",
-      "paywalled": true
-    },
-    {
-      "id": "55f5bd3cd038",
-      "title": "Aztec document goes on display in Mexico after 186 years abroad",
-      "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
-      "summary": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
-      "source": "BBC World",
-      "topic": "World",
-      "published": "2026-09-17T11:00:41+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "1b55da4aa392",
-      "title": "Can independent AI auditors keep up with frontier AI development?",
-      "link": "https://www.scientificamerican.com/article/can-independent-ai-auditors-keep-up-with-frontier-ai-development/",
-      "summary": "Independent auditors are emerging as a key part of plans to rein in frontier AI. But the systems are evolving faster than the methods used to evaluate them",
-      "source": "Scientific American",
-      "topic": "Science",
-      "published": "2026-09-17T11:00:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "bebf889a64ea",
-      "title": "What eyewitness accounts tell us about the science of memory",
-      "link": "https://www.scientificamerican.com/article/what-eyewitness-accounts-tell-us-about-the-science-of-memory/",
-      "summary": "The malleability of memory once cast doubt on eyewitness identification in criminal cases, but new research reveals how eyewitness memory can be used accurately",
-      "source": "Scientific American",
-      "topic": "Science",
-      "published": "2026-09-17T11:00:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "9d1986055bc9",
-      "title": "Who Made America Poorer and Dirtier?",
-      "link": "https://www.theatlantic.com/ideas/2026/09/vance-speech-immigrants-democrats/688656/?utm_source=feed",
-      "summary": "The people in charge are really hoping you\u2019ll blame someone else.",
-      "source": "The Atlantic",
-      "topic": "Culture",
-      "published": "2026-09-17T11:00:00+00:00",
-      "paywalled": true
-    },
-    {
-      "id": "08249a041fa7",
-      "title": "The Empty Promise of Therapy Without a Therapist",
-      "link": "https://www.theatlantic.com/technology/2026/09/ai-therapy-without-a-therapist/688633/?utm_source=feed",
-      "summary": "What happens when our therapists are no longer able to feel?",
-      "source": "The Atlantic",
-      "topic": "Culture",
-      "published": "2026-09-17T11:00:00+00:00",
-      "paywalled": true
-    },
-    {
-      "id": "f67327034ceb",
-      "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
-      "link": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union",
-      "summary": "The Federal Reserve has raised interest rates for the first time in years. And, the European Union has proposed that Canada become its first-ever \"associate member.\"",
-      "source": "NPR World",
-      "topic": "World",
-      "published": "2026-09-17T10:54:18+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "9b7759b3a063",
-      "title": "A Plan to Pay Married Mothers Not to Work",
-      "link": "https://www.theatlantic.com/ideas/2026/09/vance-married-mothers-child-care/688645/?utm_source=feed",
-      "summary": "And make single moms pay for it.",
-      "source": "The Atlantic",
-      "topic": "Culture",
-      "published": "2026-09-17T10:45:24+00:00",
-      "paywalled": true
-    },
-    {
       "id": "a715db659c27",
       "title": "Trump's surgeon general pick faces questions on vaccines and vaping at Senate hearing",
       "link": "https://www.npr.org/2026/09/17/nx-s1-5971469/trumps-surgeon-general-pick-faces-questions-on-vaccines-and-vaping-at-senate-hearing",
@@ -190,66 +930,6 @@
       "source": "NPR Health",
       "topic": "Health",
       "published": "2026-09-17T10:44:17+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "bfe6bfbc985b",
-      "title": "Helen Jenner likely to take over as Reform Wales leader, sources tell BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cqgk52xjd08ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Reform's Welsh deputy leader is the favourite to take over from Dan Thomas, who was arrested on Sunday.",
-      "source": "BBC Politics",
-      "topic": "Politics",
-      "published": "2026-09-17T10:37:55+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "2f01c07bf66f",
-      "title": "I sent 200 LinkedIn messages and got a job: How to nail networking",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
-      "summary": "From coffee chats to LinkedIn messages, here's how to network your way to your next job.",
-      "source": "BBC Business",
-      "topic": "Business",
-      "published": "2026-09-17T10:37:43+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "451f5ae544f0",
-      "title": "OpenAI cracks the hidden math that keeps your texts from turning to gibberish",
-      "link": "https://www.scientificamerican.com/article/openai-cracks-the-hidden-math-that-keeps-your-texts-from-turning-to-gibberish/",
-      "summary": "The surprising real-world applications of high-dimensional sphere packing and the 48-year-old barrier that OpenAI just broke",
-      "source": "Scientific American",
-      "topic": "Science",
-      "published": "2026-09-17T10:30:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "d9b2ee517394",
-      "title": "STAT+: A biotech hedge fund births a new immunology company",
-      "link": "https://www.statnews.com/2026/09/17/biotech-hedge-fund-startup-north-immunology/?utm_campaign=rss",
-      "summary": "Why a biotech hedge fund decided to build from the ground up a new company to develop a better, long-acting antibody treatment for atopic dermatitis.",
-      "source": "STAT News",
-      "topic": "Health",
-      "published": "2026-09-17T10:30:00+00:00",
-      "paywalled": true
-    },
-    {
-      "id": "6f1ecf0e6cff",
-      "title": "STAT+: A Sellas immunotherapy study, long delayed, will end in failure",
-      "link": "https://www.statnews.com/2026/09/17/sellas-immunotherapy-study-acute-myeloid-leukemia/?utm_campaign=rss",
-      "summary": "Why Sellas' experimental immunotherapy study is a blowup waiting to happen.",
-      "source": "STAT News",
-      "topic": "Health",
-      "published": "2026-09-17T10:30:00+00:00",
-      "paywalled": true
-    },
-    {
-      "id": "02ea947cb161",
-      "title": "EU announces plan to restrict social media access for under-15s",
-      "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
-      "source": "BBC World",
-      "topic": "World",
-      "published": "2026-09-17T10:00:14+00:00",
       "paywalled": false
     },
     {
@@ -273,66 +953,6 @@
       "paywalled": false
     },
     {
-      "id": "f93e202dceeb",
-      "title": "AI labs are claiming \u201cAGI\u201d is imminent\u2014but does that mean what we think it means?",
-      "link": "https://www.scientificamerican.com/article/ai-labs-are-claiming-agi-is-imminent-but-does-that-mean-what-we-think-it-means/",
-      "summary": "Artificial general intelligence was once a term confined to technical science papers, but its meaning has slipped",
-      "source": "Scientific American",
-      "topic": "Science",
-      "published": "2026-09-17T10:00:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "caf443f1c5d9",
-      "title": "Donald Trump Returns to the U.N. Amid the Collapse of the Old Order",
-      "link": "https://www.newyorker.com/news/global-notes/donald-trump-returns-to-the-un-amid-the-collapse-of-the-old-order",
-      "summary": "Trump is at the heart of this geopolitical moment, catalytic in his alliance-fraying bullying, unprovoked warmongering, and protectionist demagoguery.",
-      "source": "The New Yorker",
-      "topic": "Culture",
-      "published": "2026-09-17T10:00:00+00:00",
-      "paywalled": true
-    },
-    {
-      "id": "b39ecf1634e0",
-      "title": "Your Parents\u2019 Fall TV Preview",
-      "link": "https://www.newyorker.com/humor/shouts-murmurs/your-parents-fall-tv-preview",
-      "summary": "Have you considered \u201cSix Hours a Day of MSNBC\u201d on MS NOW (or Fox News, depending on your specific parents)?",
-      "source": "The New Yorker",
-      "topic": "Culture",
-      "published": "2026-09-17T10:00:00+00:00",
-      "paywalled": true
-    },
-    {
-      "id": "99b2703f18b9",
-      "title": "That Back-to-School Feeling",
-      "link": "https://www.newyorker.com/podcast/critics-at-large/that-back-to-school-feeling",
-      "summary": "With teachers and students returning to the classroom, the hosts of Critics at Large reflect on the art of education itself.",
-      "source": "The New Yorker",
-      "topic": "Culture",
-      "published": "2026-09-17T10:00:00+00:00",
-      "paywalled": true
-    },
-    {
-      "id": "68be52b4b580",
-      "title": "Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes",
-      "link": "https://www.npr.org/2026/09/17/g-s1-143712/pressure-on-global-chokepoints-drives-asias-increased-use-of-arctic-trade-routes",
-      "summary": "Asian nations began pilot voyages over a decade ago to find routes to Europe and the Middle East that were faster and less vulnerable to chokepoints. The ongoing war has added impetus to those efforts.",
-      "source": "NPR World",
-      "topic": "World",
-      "published": "2026-09-17T10:00:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "af406a2227b6",
-      "title": "Conservatives urge Burnham to rule out tax rises at Budget",
-      "link": "https://www.bbc.co.uk/news/articles/cw7v4je1mnveo?at_medium=RSS&at_campaign=rss",
-      "summary": "Shadow chancellor Andrew Griffith says UK taxes are forcing young people to \"seek their fortune\" elsewhere.",
-      "source": "BBC Politics",
-      "topic": "Politics",
-      "published": "2026-09-17T09:26:53+00:00",
-      "paywalled": false
-    },
-    {
       "id": "f57b3aca191f",
       "title": "Why reshaping memories may hold the key to raising self-esteem",
       "link": "https://www.npr.org/2026/09/17/nx-s1-5971141/boost-self-worth-self-esteem",
@@ -340,26 +960,6 @@
       "source": "NPR Health",
       "topic": "Health",
       "published": "2026-09-17T09:02:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "8b9fe5a0064d",
-      "title": "D.C. airspace is complicated. Experts say Trump's arch would add one more risk",
-      "link": "https://www.npr.org/2026/09/17/nx-s1-5950462/trump-arch-dca-planes-safety-concerns-faa",
-      "summary": "The Trump administration wants to build its 250-foot arch near one of the country's busiest runways. The FAA will determine whether that poses a hazard. But independent experts already have concerns.",
-      "source": "NPR Politics",
-      "topic": "Politics",
-      "published": "2026-09-17T09:01:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "3b1cacb8972c",
-      "title": "Big questions - and key logistical details - loom ahead of China-U.S. summit",
-      "link": "https://www.npr.org/2026/09/17/nx-s1-5971293/trump-xi-summit-china",
-      "summary": "Despite the lingering questions, China remains optimistic about the summit.",
-      "source": "NPR Politics",
-      "topic": "Politics",
-      "published": "2026-09-17T09:00:00+00:00",
       "paywalled": false
     },
     {
@@ -393,76 +993,6 @@
       "paywalled": false
     },
     {
-      "id": "5d77d1f06521",
-      "title": "Growing number of GOP candidates are using anti-Muslim rhetoric on the campaign trail",
-      "link": "https://www.npr.org/2026/09/17/nx-s1-5961533/growing-number-of-gop-candidates-are-using-anti-muslim-rhetoric-on-the-campaign-trail",
-      "summary": "Anti-Muslim rhetoric has become increasingly common on the campaign trail at a moment when many Republicans are eager to shift attention away from the economy.",
-      "source": "NPR Politics",
-      "topic": "Politics",
-      "published": "2026-09-17T08:45:33+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "5d0400935720",
-      "title": "Rising gas prices fuel protests in countries around the world",
-      "link": "https://www.npr.org/2026/09/17/nx-s1-5971275/rising-gas-prices-fuel-protests-in-countries-around-the-world",
-      "summary": "Protests over rising fuel protest are happening around the world, a ripple effect as the Us war on Iran is dragging Saudi Arabia in deeper",
-      "source": "NPR World",
-      "topic": "World",
-      "published": "2026-09-17T08:44:51+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "10d8bb5e2868",
-      "title": "How the fighting between the Houthis and Saudi Arabia is affecting gas prices",
-      "link": "https://www.npr.org/2026/09/17/nx-s1-5971210/how-the-fighting-between-the-houthis-and-saudi-arabia-is-affecting-gas-prices",
-      "summary": "NPR's A Martinez speaks with oil markets expert Ellen R. Wald of the Atlantic Council about how the escalation in fighting between the Houthis and Saudi Arabia is affecting global oil and gas prices.",
-      "source": "NPR World",
-      "topic": "World",
-      "published": "2026-09-17T08:44:42+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "406ecd0a639f",
-      "title": "With invite to join EU bloc, Canada's prime minister speaks to European Parliament",
-      "link": "https://www.npr.org/2026/09/17/nx-s1-5971428/with-invite-to-join-eu-bloc-canadas-prime-minister-speaks-to-european-parliament",
-      "summary": "Canada's Prime Minister Mark Carney speaks to the European Parliament, following the European Union's invitation to Canada to become an \"associate member\" of the bloc.",
-      "source": "NPR World",
-      "topic": "World",
-      "published": "2026-09-17T08:43:44+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "1ec8ce89a7f1",
-      "title": "STAT+: The FDA\u2019s rebuilding effort is running into a new challenge",
-      "link": "https://www.statnews.com/2026/09/17/fda-doge-cuts-new-hires-slowed-centralized-hiring-center-short-staffed/?utm_campaign=rss",
-      "summary": "The FDA's plan to hire thousands of new workers is being slowed by an overwhelmed HR center.",
-      "source": "STAT News",
-      "topic": "Health",
-      "published": "2026-09-17T08:30:00+00:00",
-      "paywalled": true
-    },
-    {
-      "id": "7f1ae43f8e35",
-      "title": "Opinion: What happened to oppositional defiant disorder?",
-      "link": "https://www.statnews.com/2026/09/17/oppositional-defiant-disorder-use-of-odd-diagnosis-declines-in-children/?utm_campaign=rss",
-      "summary": "Over the past 25 years, there\u2019s been a dramatic change in how we understand children who don\u2019t \u201clisten,\u201d writes behavioral pediatrician Lawrence Diller.",
-      "source": "STAT News",
-      "topic": "Health",
-      "published": "2026-09-17T08:30:00+00:00",
-      "paywalled": true
-    },
-    {
-      "id": "ea82555f0a06",
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-      "source": "BBC Business",
-      "topic": "Business",
-      "published": "2026-09-17T08:22:12+00:00",
-      "paywalled": false
-    },
-    {
       "id": "5f6e2d05fdbf",
       "title": "Why Germany Is Building an Ark for U.S. Climate Data",
       "link": "https://e360.yale.edu/features/germany-us-climate-data",
@@ -473,143 +1003,33 @@
       "paywalled": false
     },
     {
-      "id": "d7fac3296aff",
-      "title": "STAT+: England to cover AstraZeneca breast cancer drug, a result of U.K.-U.S. drug pricing deal",
-      "link": "https://www.statnews.com/2026/09/17/astrazeneca-enhertu-breast-cancer-england-nice-pricing-agreement-us-trade-deal/?utm_campaign=rss",
-      "summary": "A breast cancer drug from AstraZeneca will now be available in England after a pricing deal was reached, in part a result of the U.S.-U.K. pharma pact.",
-      "source": "STAT News",
-      "topic": "Health",
-      "published": "2026-09-17T07:42:48+00:00",
-      "paywalled": true
-    },
-    {
-      "id": "0fdd84ee7880",
-      "title": "New mesothelioma drug turns cancer\u2019s own defenses against it",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260915232136.htm",
-      "summary": "Scientists are testing a counterintuitive way to fight mesothelioma, an aggressive asbestos-linked cancer with few effective treatments. A new experimental mesothelioma drug kills cancer cells by disabling PRX3, an antioxidant defense that tumors use to survive intense oxidative ",
-      "source": "ScienceDaily",
-      "topic": "Science",
-      "published": "2026-09-17T05:11:51+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "99aca68ee45f",
-      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Austin Tice\u2019s abduction was approved by Syria\u2019s former leader Bashar al-Assad, a source claims.",
-      "source": "BBC World",
-      "topic": "World",
-      "published": "2026-09-17T05:00:18+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "f3ba4313649c",
-      "title": "NASA\u2019s New Horizons spots signs of liquid nitrogen flowing on Pluto",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260916232525.htm",
-      "summary": "Scientists have found the first evidence that liquid may have flowed across Pluto\u2019s surface in the recent past. Dark features on the enormous Sputnik Planitia glacier appear consistent with liquid nitrogen rising through cracks from deep beneath the ice. Computer models show that",
-      "source": "ScienceDaily",
-      "topic": "Science",
-      "published": "2026-09-17T04:02:29+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "88e905ae1fb9",
-      "title": "Scientists find a hidden health advantage in black and green rice",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260916232523.htm",
-      "summary": "Scientists found that black and green Japanese rice contain unusual, potentially beneficial fats and may be digested more slowly than ordinary white rice. The combination could make these colorful varieties promising ingredients for foods designed to support blood sugar and metab",
-      "source": "ScienceDaily",
-      "topic": "Science",
-      "published": "2026-09-17T03:52:12+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "10b3a72c0873",
-      "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-      "link": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-      "summary": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
-      "source": "BBC Business",
-      "topic": "Business",
-      "published": "2026-09-17T03:09:21+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "7545e8972400",
-      "title": "The streamers are fighting over Halloween",
-      "link": "https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie",
-      "summary": "The Toronto International Film Festival is a place to go to see the future of film, but this year it also provided a glimpse at what is coming very soon in the realm of streaming. Four different streamers - Peacock, Netflix, Amazon, and AMC - all premiered early looks at upcoming",
-      "source": "The Verge",
-      "topic": "Technology",
-      "published": "2026-09-17T03:00:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "66c805485262",
-      "title": "Hidden \u201cimmune organ\u201d in the skull may help fight brain cancer",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260915232134.htm",
-      "summary": "Scientists discovered a hidden \u201cimmune organ\u201d inside the skull that acts as a rapid first responder against brain cancer in mice. Strengthening this local immune defense improved tumor rejection and survival, raising the possibility of new treatments that target the skull directl",
-      "source": "ScienceDaily",
-      "topic": "Science",
-      "published": "2026-09-17T02:43:01+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "f5b6dac208dd",
-      "title": "US interest rates raised for first time in three years",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-      "source": "BBC Business",
-      "topic": "Business",
-      "published": "2026-09-17T00:40:17+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "9abd9dae3965",
-      "title": "OpenAI maths bombshell sparks debate about who gets credit in age of AI",
-      "link": "https://www.nature.com/articles/d41586-026-02910-w",
-      "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02910-wControversy around OpenAI\u2019s claim to have solved the Navier\u2013Stokes problem highlights how researchers could be inadvertently sharing \u2014 and absorbing\u2014 ideas through chatbots.",
+      "id": "71a14e2fd110",
+      "title": "Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer",
+      "link": "https://www.nature.com/articles/s41586-026-11134-x",
+      "summary": "Nature, Published online: 17 September 2026; doi:10.1038/s41586-026-11134-xAuthor Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer",
       "source": "Nature News",
       "topic": "Science",
       "published": "2026-09-17T00:00:00+00:00",
       "paywalled": false
     },
     {
-      "id": "5fffd5b5961c",
-      "title": "How, Exactly, Could A.I. Kill Us?",
-      "link": "https://www.newyorker.com/news/q-and-a/how-exactly-could-ai-kill-us",
-      "summary": "Employees of A.I. companies are increasingly sounding the alarm. What should we make of their warnings?",
-      "source": "The New Yorker",
-      "topic": "Culture",
+      "id": "1087e084bfce",
+      "title": "Mercury is shrinking with age \u2014 faster than thought",
+      "link": "https://www.nature.com/articles/d41586-026-02898-3",
+      "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02898-3Impacts by space objects have obscured some of the evidence of the planet\u2019s contraction over the past 4.5 billion years.",
+      "source": "Nature News",
+      "topic": "Science",
       "published": "2026-09-17T00:00:00+00:00",
-      "paywalled": true
-    },
-    {
-      "id": "d2f3ab14e50f",
-      "title": "Snap is launching a new Specs AI tool, and it\u2019s coming to iOS and Mac",
-      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Spe",
-      "source": "The Verge",
-      "topic": "Technology",
-      "published": "2026-09-16T23:40:00+00:00",
       "paywalled": false
     },
     {
-      "id": "99b7c71f69d9",
-      "title": "I wore Snap\u2019s $2,200 smart glasses",
-      "link": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
-      "summary": "My favorite part of wearing the Specs, Snap's new augmented reality glasses, was playing dominoes. Sitting across the table from a Snap employee wearing the same pair of chunky glasses, I could select a virtual domino with a pinch and then move my hand to drop it in place, watchi",
-      "source": "The Verge",
-      "topic": "Technology",
-      "published": "2026-09-16T23:40:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "7122978d386e",
-      "title": "Would you buy branded clothing from your favourite tech firm?",
-      "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
-      "source": "BBC Business",
-      "topic": "Business",
-      "published": "2026-09-16T23:18:47+00:00",
+      "id": "e3434538c95f",
+      "title": "Schoolhouse meals serve up an income bump",
+      "link": "https://www.nature.com/articles/d41586-026-02896-5",
+      "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02896-5Modelling shows a link between feeding programmes and higher potential earning in five African nations.",
+      "source": "Nature News",
+      "topic": "Science",
+      "published": "2026-09-17T00:00:00+00:00",
       "paywalled": false
     },
     {
@@ -623,16 +1043,6 @@
       "paywalled": false
     },
     {
-      "id": "5dd139d6b77e",
-      "title": "Missing pages of priceless Henry VIII\u2013era manuscript finally found",
-      "link": "https://www.scientificamerican.com/article/missing-pages-of-priceless-missing-henry-viii-era-manuscript-finally-found/",
-      "summary": "The pages come from a copy of Mirror of the Blessed Life of Jesus Christ that once belonged to John Gage, an enforcer in Henry VIII&rsquo;s court and a key figure in the historical dissolution of the monasteries",
-      "source": "Scientific American",
-      "topic": "Science",
-      "published": "2026-09-16T23:01:00+00:00",
-      "paywalled": false
-    },
-    {
       "id": "28f67618031b",
       "title": "Climate Change Primed Nepal Glacier for Deadly Collapse",
       "link": "https://insideclimatenews.org/news/16092026/research-links-warming-rocks-thawing-permafrost-melting-ice-to-nepal-flood/",
@@ -640,196 +1050,6 @@
       "source": "Inside Climate News",
       "topic": "Climate",
       "published": "2026-09-16T23:01:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "8a4f8c5f115a",
-      "title": "Kash Patel Refuses to Take a Republican\u2019s Lifeline",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/kash-patel-senate-hearing-bestiality/688658/?utm_source=feed",
-      "summary": "The FBI director allowed a Senate hearing to turn into a discussion of bestiality.",
-      "source": "The Atlantic",
-      "topic": "Culture",
-      "published": "2026-09-16T22:41:00+00:00",
-      "paywalled": true
-    },
-    {
-      "id": "65fe20ba2c7a",
-      "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
-      "summary": "The legislation was named for the late South Carolina Republican. It gives the president authority to impose tariffs on top importers of oil and natural gas from Russia, such as China and India.",
-      "source": "NPR Politics",
-      "topic": "Politics",
-      "published": "2026-09-16T22:30:46+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "00f56e1b1eec",
-      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-      "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-      "summary": "Planned 2029 debut could make this Apple\u2019s first enterprise server in decades.",
-      "source": "Ars Technica",
-      "topic": "Technology",
-      "published": "2026-09-16T22:02:46+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "d2016cea1445",
-      "title": "A New Bill Could Help Obstruct Future Energy Efficiency Standards for Home Appliances\u2014and Repeal Old Ones",
-      "link": "https://insideclimatenews.org/news/16092026/senate-considers-energy-efficiency-reform-act/",
-      "summary": "The Senate Committee on Energy and Natural Resources heard testimony Wednesday on the Energy Efficiency Reform Act. The new bill would make it much more difficult for the Department of Energy to update energy efficiency standards for home appliances like dishwashers, washing mach",
-      "source": "Inside Climate News",
-      "topic": "Climate",
-      "published": "2026-09-16T22:02:24+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "79d18360fa9c",
-      "title": "Court Rules in Favor of Feds and Denver Water on Dam Expansion",
-      "link": "https://insideclimatenews.org/news/16092026/court-allows-colorado-dam-expansion-to-continue/",
-      "summary": "The unfinished expansion of Gross Reservoir near Denver can proceed after three judges ruled Tuesday in favor of the federal government and a water utility\u2019s challenge to a lower court opinion halting construction. The U.S. Army Corps of Engineers and Denver Water defended the da",
-      "source": "Inside Climate News",
-      "topic": "Climate",
-      "published": "2026-09-16T21:53:34+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "2a4fab1da5c1",
-      "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
-      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
-      "summary": "Survivors appalled nobody will tell them if they\u2019re in Epstein\u2019s CSAM collection.",
-      "source": "Ars Technica",
-      "topic": "Technology",
-      "published": "2026-09-16T21:42:09+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "684992614292",
-      "title": "Committee investigating Epstein holds billionaire Leon Black in contempt of Congress",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress",
-      "summary": "Billionaire investor Leon Black refused to appear before the committee investigating convicted sex offender Jeffrey Epstein for a deposition. Now it's up to the Department of Justice whether to pursue criminal charges.",
-      "source": "NPR Politics",
-      "topic": "Politics",
-      "published": "2026-09-16T21:12:27+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "c60fc05e1d0d",
-      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
-      "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-      "summary": "Group plans to be largely out of commission for several weeks.",
-      "source": "Ars Technica",
-      "topic": "Technology",
-      "published": "2026-09-16T21:08:14+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "cf356bfbc5c4",
-      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
-      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether",
-      "source": "The Verge",
-      "topic": "Technology",
-      "published": "2026-09-16T20:59:13+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "1a466487d144",
-      "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
-      "link": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
-      "summary": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood.",
-      "source": "Ars Technica",
-      "topic": "Technology",
-      "published": "2026-09-16T20:44:41+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "2f33fe53d3c6",
-      "title": "Ectopic Pregnancy Deaths",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5966927/ectopic-pregnancy-deaths",
-      "summary": "NPR's Juana Summers talks with ProPublica data reporter Andrea Suozzo about their investigation looking into the rise in deaths related to ectopic pregnancies.",
-      "source": "NPR Health",
-      "topic": "Health",
-      "published": "2026-09-16T20:32:37+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "cb035bc8dd07",
-      "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
-      "link": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
-      "summary": "New system-level tools bring Arm chipsets, Android APKs into the Steam ecosystem.",
-      "source": "Ars Technica",
-      "topic": "Technology",
-      "published": "2026-09-16T20:23:16+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "29048709743d",
-      "title": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
-      "link": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
-      "summary": "Shares of J.B. Hunt plunged 13% Wednesday after the company warned of an earnings drop between 5% and 10%.",
-      "source": "CNBC Business",
-      "topic": "Business",
-      "published": "2026-09-16T20:00:36+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "9668e15731f4",
-      "title": "California may gut state net neutrality law to comply with Trump admin demand",
-      "link": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
-      "summary": "Trump admin broadband grants forbid states from enforcing net neutrality laws.",
-      "source": "Ars Technica",
-      "topic": "Technology",
-      "published": "2026-09-16T19:36:44+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "80a3126aa2f0",
-      "title": "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected",
-      "link": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html",
-      "summary": "Boeing CEO Kelly Ortberg said wing production at its Renton, Washington, factory is a hold up, adding the company has plans to address it.",
-      "source": "CNBC Business",
-      "topic": "Business",
-      "published": "2026-09-16T19:36:24+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "4bf8f22b44b7",
-      "title": "Japan just hit a new longevity milestone",
-      "link": "https://www.scientificamerican.com/article/japan-just-hit-a-new-longevity-milestone/",
-      "summary": "More than 100,000 people in the country are over 100 years old",
-      "source": "Scientific American",
-      "topic": "Science",
-      "published": "2026-09-16T18:49:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "e22053c2d575",
-      "title": "American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up",
-      "link": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html",
-      "summary": "American says a minority of its seats now accounts for half of its revenue.",
-      "source": "CNBC Business",
-      "topic": "Business",
-      "published": "2026-09-16T18:33:51+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "24b8b2344856",
-      "title": "Congress is under pressure to act on AI \u2014 here's what that could look like",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
-      "summary": "Lawmakers are expressing broader willingness to regulate AI development, but the path forward may not be a quick one.",
-      "source": "NPR Politics",
-      "topic": "Politics",
-      "published": "2026-09-16T17:32:44+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "94f644ed6935",
-      "title": "More than \u00a32m spent by government on influencers since July 2024",
-      "link": "https://www.bbc.co.uk/news/articles/cwly71pz2xl1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Departments are using influencers alongside campaigns in traditional media such as TV and newspapers.",
-      "source": "BBC Politics",
-      "topic": "Politics",
-      "published": "2026-09-16T17:12:16+00:00",
       "paywalled": false
     },
     {
@@ -843,16 +1063,6 @@
       "paywalled": false
     },
     {
-      "id": "ab07c45f1ca0",
-      "title": "Mice with human brain cells offer a tool to study disease. Ethicists ask: What's next?",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5968873/lab-mouse-human-brain-cells-organoid-disease-ethics",
-      "summary": "Neuroscientists have made a major advance in modeling the human brain in mice, offering a new way to study conditions like cerebral palsy. Ethicists ask if it changes how these mice should be treated.",
-      "source": "NPR Health",
-      "topic": "Health",
-      "published": "2026-09-16T15:00:16+00:00",
-      "paywalled": false
-    },
-    {
       "id": "f17c4065663c",
       "title": "Meet a mouse whose brain cortex is made up of human cells",
       "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
@@ -860,56 +1070,6 @@
       "source": "MIT Technology Review",
       "topic": "Technology",
       "published": "2026-09-16T15:00:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "b59826fd75f3",
-      "title": "The Best Books of 2026 So Far",
-      "link": "https://www.newyorker.com/best-books-2026",
-      "summary": "Our editors and critics review notable new fiction, nonfiction, and poetry.",
-      "source": "The New Yorker",
-      "topic": "Culture",
-      "published": "2026-09-16T15:00:00+00:00",
-      "paywalled": true
-    },
-    {
-      "id": "e2c7d1ecf829",
-      "title": "Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands as the Budget approaches",
-      "link": "https://www.bbc.co.uk/news/articles/cwp93jp4p7xpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Budget is only six weeks away and the economy is undoubtedly the biggest challenge facing the prime minister.",
-      "source": "BBC Politics",
-      "topic": "Politics",
-      "published": "2026-09-16T14:52:38+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "2d789beee6d8",
-      "title": "Burnham rejects 'tax and spend socialist' comments",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7dj1e34z9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The prime minister insists he is prepared to take \"difficult decisions\" at next month's Budget.",
-      "source": "BBC Politics",
-      "topic": "Politics",
-      "published": "2026-09-16T14:21:37+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "03e8523e7c82",
-      "title": "Call to raise tax thresholds among union demands ahead of Budget",
-      "link": "https://www.bbc.co.uk/news/articles/cmd94epyg210o?at_medium=RSS&at_campaign=rss",
-      "summary": "Unions who donate to Labour will meet John Healey on Thursday to press home their demands ahead of next month's Budget.",
-      "source": "BBC Politics",
-      "topic": "Politics",
-      "published": "2026-09-16T14:19:23+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "45cb1826836d",
-      "title": "Scientists find an immune \u201cfalse alarm\u201d that may drive rapid aging",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260915232130.htm",
-      "summary": "Scientists have discovered that some severe genetic disorders linked to rapid aging may be driven not just by damaged DNA, but by the body\u2019s overreaction to that damage. When broken DNA fragments leak into the wrong part of a cell, an immune sensor called cGAS can mistake them fo",
-      "source": "ScienceDaily",
-      "topic": "Science",
-      "published": "2026-09-16T14:05:35+00:00",
       "paywalled": false
     },
     {
@@ -940,156 +1100,6 @@
       "source": "Yale Environment 360",
       "topic": "Climate",
       "published": "2026-09-16T12:25:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "0b468efa5ea6",
-      "title": "The Download: AI\u2019s trillion-dollar gamble and OpenAI\u2019s biology data bid",
-      "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What\u2019s at stake in AI\u2019s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted",
-      "source": "MIT Technology Review",
-      "topic": "Technology",
-      "published": "2026-09-16T12:10:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "ad8e3fd6c947",
-      "title": "Scientists \u201ctruly astonished\u201d by discovery that challenges Earth\u2019s origin story",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260915232132.htm",
-      "summary": "A new study suggests Earth formed almost entirely from material in the inner Solar System, challenging the idea that water-rich material from beyond Jupiter played a major role. If correct, Earth\u2019s water may have been present much closer to the young Sun than scientists previousl",
-      "source": "ScienceDaily",
-      "topic": "Science",
-      "published": "2026-09-16T11:03:10+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "69ae56234b18",
-      "title": "Senators question Trump's picks for top health positions, including surgeon general",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5968780/trump-rfk-jr-health-nomination-surgeon-general",
-      "summary": "On Wednesday, the Senate committee on health held a confirmation hearing for three top health officials, including surgeon general. Dr. Nicole Saphier is President Trump's third attempt to nominate a surgeon general.",
-      "source": "NPR Health",
-      "topic": "Health",
-      "published": "2026-09-16T10:00:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "510d0c9e75a3",
-      "title": "The Fed raises interest rates for the first time in over three years",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5968724/federal-reserve-interest-rates-inflation-economy",
-      "summary": "The Federal Reserve raised its benchmark interest rate Wednesday to combat stubborn inflation. That will make it more expensive to borrow money to buy a car or carry a balance on a credit card.",
-      "source": "NPR Business",
-      "topic": "Business",
-      "published": "2026-09-16T09:00:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "b7b4d2d7f922",
-      "title": "When students attend these colleges, taxpayers often pay. Here's why",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5946419/student-loans-repayment-for-profit-college",
-      "summary": "Federal data shows many borrowers who aren't paying their loans went to private, for-profit colleges \u2014 schools that often market to low-income students and rely on federal financial aid for revenue.",
-      "source": "NPR Business",
-      "topic": "Business",
-      "published": "2026-09-16T09:00:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "37b95c22adce",
-      "title": "Why Steve Bannon sided with Sanders, not Trump, on AI",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5968821/steve-bannon-trump-ai-china-regulation",
-      "summary": "Where does Steve Bannon fit in the debate over regulating or slowing AI? He tells Morning Edition where he breaks with Trump and what he thinks Washington should do.",
-      "source": "NPR Business",
-      "topic": "Business",
-      "published": "2026-09-16T08:43:46+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "261c23cf1218",
-      "title": "Turkish habit of stashing gold \"under the pillow' hurts economy, government says",
-      "link": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy",
-      "summary": "For years, Turks have stashed their gold at home against a raining day, mistrustful of banks. Now the government says that tradition hurts the economy",
-      "source": "NPR Business",
-      "topic": "Business",
-      "published": "2026-09-16T00:55:41+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "7c2759914b75",
-      "title": "Inflection points and transitions in Alzheimer\u2019s disease",
-      "link": "https://www.nature.com/articles/s41586-026-11110-5",
-      "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11110-5Inflection points and transitions in Alzheimer\u2019s disease",
-      "source": "Nature News",
-      "topic": "Science",
-      "published": "2026-09-16T00:00:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "5942af2512fd",
-      "title": "Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
-      "link": "https://www.nature.com/articles/s41586-026-11123-0",
-      "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11123-0Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
-      "source": "Nature News",
-      "topic": "Science",
-      "published": "2026-09-16T00:00:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "4695bd99d202",
-      "title": "Why most  stars don\u2019t have outbursts like our Sun\u2019s",
-      "link": "https://www.nature.com/articles/d41586-026-02833-6",
-      "summary": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02833-6A strong magnetic field can disrupt a star\u2019s ability to produce the fountains of matter called coronal mass ejections.",
-      "source": "Nature News",
-      "topic": "Science",
-      "published": "2026-09-16T00:00:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "a343e752b999",
-      "title": "Transplanted human brain-tissue takes root in mice without a cortex",
-      "link": "https://www.nature.com/articles/d41586-026-02927-1",
-      "summary": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02927-1Extensive cellular integration might provide platform for in vivo testing of new therapies \u2014 plus, the AI tool that turns papers into \u2018virtual corresponding authors\u2019.",
-      "source": "Nature News",
-      "topic": "Science",
-      "published": "2026-09-16T00:00:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "6e60f99e2804",
-      "title": "Development of a random background to understand ligand optimization",
-      "link": "https://www.nature.com/articles/s41586-026-11013-5",
-      "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11013-5An approach to improve efficiency and establish a background expectation for ligand potency optimization is described.",
-      "source": "Nature News",
-      "topic": "Science",
-      "published": "2026-09-16T00:00:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "bfd9d501d143",
-      "title": "Roundtables: Could AI really kill us all?",
-      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: wh",
-      "source": "MIT Technology Review",
-      "topic": "Technology",
-      "published": "2026-09-15T17:47:51+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "5d62a964ce38",
-      "title": "From Indigenous Loss, a Potent Legal Argument on Climate",
-      "link": "https://e360.yale.edu/features/julian-aguon-interview",
-      "summary": "Human rights lawyer Julian Aguon explores how warming threatens not only the survival of small island nations but also the traditions of their Indigenous peoples. He is citing these injuries in legal actions, including in a major victory at the International Court of Justice last",
-      "source": "Yale Environment 360",
-      "topic": "Climate",
-      "published": "2026-09-15T12:47:00+00:00",
-      "paywalled": false
-    },
-    {
-      "id": "f8c6fb2aa7a7",
-      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-      "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly ",
-      "source": "MIT Technology Review",
-      "topic": "Technology",
-      "published": "2026-09-15T12:10:00+00:00",
       "paywalled": false
     }
   ]
